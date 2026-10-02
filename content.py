@@ -10,7 +10,7 @@ FORM_ACTION = "https://formsubmit.co/f205ca1265cc5630d4c6253a9913f917"
 FORM_SUBJECT = "New junk removal quote request"
 # Google Search Console verification: paste the token (the content="..." value only) here, then rebuild.
 # Left empty on purpose, so no verification tag is output until it's filled in.
-GOOGLE_VERIFICATION = ""
+GOOGLE_VERIFICATION = "QTObMCEV5W0Joa9lOXm7iWNE78Jmfe1DUmOx7eiV0R4"
 INDEXNOW_KEY = "b83e5d0c41f94a2e9c7a6d15e2f08b37"
 FACTS_CHECKED = "October 2026"
 GUIDES_PUBLISHED = "2026-10-02"
