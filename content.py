@@ -6,7 +6,7 @@ EMOJI = "🚛"
 EMAIL = "bryanbyfield0@gmail.com"
 PHONE = "909-361-0443"
 # FormSubmit endpoint. Plain email until activated; then swap in the hashed alias FormSubmit provides.
-FORM_ACTION = "https://formsubmit.co/bryanbyfield0@gmail.com"
+FORM_ACTION = "https://formsubmit.co/f205ca1265cc5630d4c6253a9913f917"
 FORM_SUBJECT = "New junk removal quote request"
 # Google Search Console verification: paste the token (the content="..." value only) here, then rebuild.
 # Left empty on purpose, so no verification tag is output until it's filled in.
