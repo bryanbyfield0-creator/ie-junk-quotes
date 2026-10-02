@@ -4,7 +4,7 @@ BRAND = "Inland Empire Junk Removal Quotes"
 EMAIL = "bryanbyfield0@gmail.com"
 PHONE = "909-361-0443"
 # FormSubmit endpoint. Plain email for now; after activation, FormSubmit gives a hashed alias you can swap in here.
-FORM_ACTION = "https://formsubmit.co/bryanbyfield0@gmail.com"
+FORM_ACTION = "https://formsubmit.co/f205ca1265cc5630d4c6253a9913f917"
 # Free-license photos (self-hosted in img/). Pexels License / Unsplash License: commercial use OK, no attribution required; credited anyway.
 # (src, w, h, alt, photographer, photographer_url, site, photo_url, license)
 PHOTOS = {
