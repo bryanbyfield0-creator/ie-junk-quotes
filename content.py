@@ -391,3 +391,7 @@ body.has-mcta{padding-bottom:76px}.mobile-cta{display:block;position:fixed;left:
 .mobile-cta a{display:block;text-align:center;background:#f2b33d;color:#1c2633;font-weight:700;text-decoration:none;padding:.75rem;border-radius:8px;font-size:1.05rem}
 }
 """
+
+
+# Cross-link to the sister lead site (footer)
+SISTER_SITE = 'Need a tree trimmed or removed too? Get free quotes at <a href="https://bryanbyfield0-creator.github.io/ie-tree-quotes/">IE Tree Quotes</a>.'
